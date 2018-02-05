@@ -1,2 +1,2 @@
 # homework1
-homework 1 wirefram
+homework 1 wireframe
